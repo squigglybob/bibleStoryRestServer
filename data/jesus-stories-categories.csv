@@ -1,0 +1,157 @@
+Seq,Event,Matthew,Mark,Luke,John,Type
+3,Birth of John the Baptist,,,1:5–25,,"nativity, john"
+4,Annunciation,,,1:26–38,,nativity
+5,Visitation of Mary,,,1:39–56,,"nativity, mary"
+6,Birth of Jesus,1:18–25,,2:1–7,,nativity
+7,Annunciation to the shepherds,,,2:8–15,,"nativity, shepherds"
+8,Adoration of the shepherds,,,2:16–20,,"nativity, shepherds"
+9,Circumcision of Jesus,,,2:21,,nativity
+10,Infant Jesus at the Temple,,,2:22–38,,"nativity, kingdom"
+11,Star of Bethlehem,2:1–2,,,,nativity
+12,Visit of the Magi,2:1–12,,,,nativity
+13,Flight into Egypt,2:13–15,,,,nativity
+14,Massacre of the Innocents,2:16–18,,,,nativity
+16,Return of the family of Jesus to Nazareth,2:21–23,,2:39,,youth
+17,Finding Jesus in the Temple,,,2:41–51,,youth
+18,Ministry of John the Baptist,3:1–12,1:1–8,3:1–20,1:19–34,"miscellaneous, john"
+19,Baptism of Jesus,3:13–17,1:9–11,3:21–22,1:29–39,"miscellaneous, baptism"
+20,Temptation of Jesus,4:1–11,1:12–13,4:1–13,,"miscellaneous, temptation"
+21,Marriage at Cana,,,,2:1–11,"miracle, wedding, marriage"
+22,First Temple Cleansing,,,,2:13–25,ministry
+23,Jesus & Nicodemus,,,,3:1–21,"ministry, faith, spirit"
+24,Return of Jesus to Galilee,4:12–12,1:14–14,,4:1–3,ministry
+25,Exorcism at the Synagogue in Capernaum,,1:21–28,4:31–37,,"miracle, exorcism"
+26,The Growing Seed,,4:26–29,,,"parable, faith, encouragement"
+27,Rejection of Jesus,13:53–58,6:1–6,4:16–30,,"ministry, rejection"
+28,First disciples of Jesus,4:18–22,1:16–20,5:1–11,1:35–51,"ministry, discipleship"
+29,Miraculous draught of fishes,,,5:1–11,,"miracle, provision, providing"
+30,Beatitudes,5:2–12,,6:20–23,,"sermon, encouragement"
+31,Young Man from Nain,,,7:11–17,,"miracle, resurrection, hope"
+32,The Two Debtors,,,7:41–43,,"parable, forgiveness"
+33,The Lamp under a Bushel,5:14–15,4:21–25,8:16–18,,"parable, encouragement"
+34,Expounding of the Law,5:17–48,,6:29–42,,"sermon, holiness"
+35,Seventy Disciples,,,10:1–24,,"ministry, healing, obedience"
+36,Discourse on ostentation,6:1–18,,,,"sermon, giving"
+37,Parable of the Good Samaritan,,,10:30–37,,"parable, encouragement, helping others, kindness, compassion"
+38,Jesus at the home of Martha and Mary,,,10:38–42,,"ministry, friendship, worship"
+39,The Lord's Prayer,6:9–13,,11:2–4,,"ministry, prayer, perseverance"
+40,The Friend at Night,,,11:5–8,,"parable, prayer, perseverance"
+41,The Rich Fool,,,12:16–21,,"parable, warning"
+42,Samaritan Woman at the Well,,,,4:4–26,"ministry, messiah, forgiveness, women"
+43,The Birds of Heaven,6:25–34,,12:22–34,,"ministry, provision, worry"
+44,Discourse on judging,7:1–5,,6:41–42,,"sermon, judgement"
+45,Discourse on holiness,7:13–27,,,,"sermon, holiness"
+46,The Test of a Good Person,7:15–20,,6:43–45,,"sermon, warning"
+47,The Wise and the Foolish Builders,7:24–27,,6:46–49,,"parable, obedience"
+48,Cleansing a leper,8:1–4,1:40–45,5:12–16,,"miracle, healing, compassion"
+49,The Centurion's Servant,8:5–13,,7:1–10,4:46–54,"miracle, healing, faith"
+50,Healing the mother of Peter's wife,8:14–17,1:29–34,4:38–41,,"miracle, healing, compassion"
+51,Exorcising at sunset,8:16–17,1:32–34,4:40–41,,"miracle, exorcism, healing"
+52,Calming the storm,8:23–27,4:35–41,8:22–25,,"miracle, faith"
+53,Gerasenes demonic,8:28–34,5:1–20,8:26–39,,"miracle, exorcism"
+54,Paralytic at Capernaum,9:1–8,2:1–12,5:17–26,,"miracle, healing, compassion, forgiveness"
+55,Calling of Matthew,9:9,2:13–14,5:27–28,,"ministry, forgiveness, faith"
+56,New Wine into Old Wineskins,9:17–17,2:22–22,5:37–39,,parable
+57,Daughter of Jairus,9:18–26,5:21–43,8:40–56,,"miracle, healing, faith"
+58,The Bleeding Woman,9:20–22,5:24–34,8:43–48,,"miracle, healing, faith, compassion"
+59,Two Blind Men at Galilee,9:27–31,,,,"miracle, healing, blindness"
+60,Exorcising a mute,9:32–34,,,,"miracle, healing, mute"
+61,Commissioning the twelve Apostles,10:2–4,3:13–19,6:12–16,,"ministry, sending, power"
+62,"Not peace, but a sword",10:34–36,,12:49–53,,ministry
+63,Messengers from John the Baptist,11:2–6,,7:18–23,,ministry
+64,Paralytic at Bethesda,,,,5:1–18,"miracle, healing, faith"
+65,Lord of the Sabbath,12:1–8,2:23–28,6:1–5,,"ministry, who is jesus"
+66,Man with withered Hand,12:9–13,3:1–6,6:6–11,,"miracle, healing"
+67,Exorcising the blind and mute man,12:22–28,3:20–30,11:14–23,,"miracle, exorcism"
+68,Parable of the strong man,12:29–29,3:27–27,11:21–22,,"parable, faith"
+69,Eternal sin,12:30–32,3:28–29,12:8–10,,ministry
+70,Jesus' True Relatives,12:46–50,3:31–35,8:19–21,,"ministry, family"
+71,Parable of the Sower,13:3–9,4:3–9,8:5–8,,"parable, faith, encouragement"
+72,The Tares,13:24–30,,,,"parable, faith"
+73,The Barren Fig Tree,,,13:6–9,,"parable, faith"
+74,An Infirm Woman,,,13:10–17,,"miracle, healing"
+75,Parable of the Mustard Seed,13:31–32,4:30–32,13:18–19,,"parable, kingdom of god"
+76,The Leaven,13:33–33,,13:20–21,,"parable, kingdom of god"
+77,Parable of the Pearl,13:44–46,,,,"parable, kingdom of god"
+78,Drawing in the Net,13:47–50,,,,"parable, kingdom of god"
+79,The Hidden Treasure,13:52–52,,,,"parable, kingdom of god"
+80,Beheading of John the Baptist,14:6–12,6:21–29,9:7–9,,ministry
+81,Feeding the 5000,14:13–21,6:31–44,9:10–17,6:5–15,"miracle, faith, provision"
+82,Jesus' walk on water,14:22–33,6:45–52,,6:16–21,"miracle, faith"
+83,Healing in Gennesaret,14:34–36,6:53–56,,,"miracle, healing"
+84,Discourse on Defilement,15:1–11,7:1–23,,,"sermon, purity"
+85,Canaanite woman's daughter,15:21–28,7:24–30,,,"miracle, healing, faith"
+86,Deaf mute of Decapolis,,7:31–37,,,"miracle, healing"
+87,Feeding the 4000,15:32–39,8:1–9,,,"miracle, faith, provision"
+88,Blind Man of Bethsaida,,8:22–26,,,"miracle, healing"
+89,Confession of Peter,16:13–20,8:27–30,9:18–21,,ministry
+90,Transfiguration of Jesus,17:1–13,9:2–13,9:28–36,,miracle
+91,Boy possessed by a demon,17:14–21,9:14–29,9:37–49,,"miracle, exorcism"
+92,Coin in the fish's mouth,17:24–27,,,,"miracle, provision, providing"
+93,Bread of Life Discourse,,,,6:22–59,sermon
+94,The Little Children,18:1–6,9:33–37,9:46–48,,"ministry, children"
+95,Man with dropsy,,,14:1–6,,"miracle, healing"
+96,Counting the Cost,,,14:25–33,,"parable, following"
+97,The Lost Sheep,18:10–14,,15:4–6,,"parable, encouragement"
+98,The Unforgiving Servant,18:23–35,,,,"parable, warning, forgiveness"
+99,The Lost Coin,,,15:8–9,,"parable, encouragement, kingdom of god"
+100,Parable of the Prodigal Son,,,15:11–32,,"parable, encouragement, kingdom of god"
+101,The Unjust Steward,,,16:1–13,,"parable, kingdom of god, end times"
+102,Rich man and Lazarus,,,16:19–31,,"parable, warning"
+103,The Master and Servant,,,17:7–10,,parable
+104,Cleansing ten lepers,,,17:11–19,,"miracle, healing, gratitude"
+105,The Unjust Judge,,,18:1–8,,"parable, encouragement, faith, prayer"
+106,Pharisee and the Tax Collector,,,18:9–14,,"parable, warning, encouragement, faith"
+107,Divorce and celibacy,19:1–15,,,,"ministry, marriage, divorce"
+108,Jesus and the rich young man,19:16–30,10:17–31,18:18–30,,"ministry, giving, following"
+109,Jesus and the woman taken in adultery,,,,8:2–11,"ministry, forgiveness, adultery"
+110,The Workers in the Vineyard,20:1–16,,,,"parable, kingdom of god"
+111,Jesus predicts his death,20:17–19,"8:31
+9:31
+10:32–34",18:31–34,,ministry
+112,The Blind at Birth,,,,9:1–12,miracle
+113,Son of man came to serve,20:20–28,10:35–45,,,ministry
+114,The Good Shepherd,,,,10:1–21,ministry
+115,Blind near Jericho,20:29–34,10:46–52,18:35–43,,miracle
+116,Raising of Lazarus,,,,11:1–44,miracle
+117,Jesus and Zacchaeus,,,19:2–28,,ministry
+118,Palm Sunday,21:1–11,11:1–11,19:29–44,12:12–19,ministry
+119,Second Temple Cleansing,21:12–13,11:15–18,19:45–48,,ministry
+120,Cursing the fig tree,21:18–22,11:12–14,,,miracle
+121,Authority of Jesus Questioned,21:23–27,11:27–33,20:1–8,,ministry
+122,The Two Sons,21:28–32,,,,parable
+123,The Wicked Husbandmen,21:33–41,12:1–9,20:9–16,,parable
+124,The Great Banquet,22:1–14,,14:16–24,,parable
+125,Render unto Caesar...,22:15–22,12:13–17,20:20–26,,ministry
+126,Woes of the Pharisees,23:1–39,12:35–37,20:45–47,,ministry
+127,Widow's mite,,12:41–44,21:1–4,,sermon
+128,Second Coming Prophecy,24:1–31,13:1–27,21:5–36,,ministry
+129,The Budding Fig Tree,24:32–35,13:28–31,21:29–33,,parable
+130,The Faithful Servant,24:42–51,13:34–37,12:35–48,,parable
+131,The Ten Virgins,25:1–13,,,,parable
+132,The Talents or Minas,25:14–30,,19:12–27,,parable
+133,The Sheep and the Goats,25:31–46,,,,parable
+134,Anointing of Jesus,26:1–13,14:3–9,7:36–50,12:2–8,ministry
+135,Bargain of Judas,26:14–16,14:10–11,22:1–6,,miscellaneous
+136,The Grain of Wheat,,,,12:24–26,ministry
+137,Last Supper,26:26–29,14:18–21,22:17–20,13:1–31,ministry
+138,Promising a Paraclete,,,,16:5–15,ministry
+139,Gethsemane,26:36–46,14:32–42,22:39–46,,miscellaneous
+140,The kiss of Judas,26:47–49,14:43–45,22:47–48,18:2–9,passion
+141,Healing the ear of a servant,,,22:49–51,,miracle
+142,Arrest of Jesus,26:50–56,14:46–49,22:52–54,18:10–12,passion
+143,Sanhedrin Trial of Jesus,26:57–68,14:53–65,22:63–71,18:12–24,passion
+144,Blood curse,27:24–25,,,,passion
+145,Carrying the cross,27:27–33,15:20–22,23:26–32,19:16–17,passion
+146,Crucifixion of Jesus,27:34–61,15:23–47,23:33–54,19:18–38,passion
+147,Myrrhbearers/Mary Magdalene at the Tomb,28:1,16:1,24:1,,resurrection appearance
+148,Empty tomb,28:2–8,16:2–8,24:2–12,20:1–13,resurrection appearance
+149,Resurrection of Jesus,28:9–10,16:9–11,24:1–8,20:14–16,resurrection appearance
+150,Noli me tangere,,,,20:17–17,resurrection appearance
+151,Road to Emmaus appearance,,,24:13–32,,resurrection appearance
+152,Resurrected Jesus appears to Apostles,,16:9–12,24:36–43,20:19–20,resurrection appearance
+153,Great Commission,28:16–20,16:14–18,,,resurrection appearance
+154,Doubting Thomas,,,,20:24–29,resurrection appearance
+155,Catch of 153 fish,,,,21:1–24,miracle
+156,Ascension of Jesus,,16:19,24:50–53,,resurrection appearance
+157,Dispersion of the Apostles,28:19–20,16:20,,,miscellaneous
