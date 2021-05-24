@@ -11,6 +11,8 @@
     "nodemon": "^2.0.7"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js && ngrok http 8080",
+    "deploy": "git push heroku HEAD:master"
   }
 }
