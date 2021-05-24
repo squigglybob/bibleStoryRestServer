@@ -1,4 +1,5 @@
 const express = require('express')
+const auth = require('express-basic-auth')
 const csv = require('csvtojson')
 const fetch = require('node-fetch')
 require('dotenv').config()
@@ -6,6 +7,7 @@ require('dotenv').config()
 const port = process.env.PORT || 8080
 const API_KEY = process.env.AUTHORISATION_TOKEN
 const API_URL = 'https://api.esv.org/v3/passage/text/'
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD
 
 let jesusStories = []
 
@@ -51,8 +53,13 @@ function makeResponse(text) {
         source: "webhook-biblestory-api"
     }
 }
-const server = express()
 
+const server = express()
+server.use(auth({
+    users: {
+        'admin': ADMIN_PASSWORD || '',
+    },
+}))
 server.use(express.urlencoded())
 server.use(express.json())
 
