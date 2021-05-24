@@ -63,16 +63,20 @@ server.use(auth({
 server.use(express.urlencoded())
 server.use(express.json())
 
-const storyGenreFollowUpIntent = 'story_genre_intent-followup'
+const followUpIntent = 'defaultwelcomeintent-followup'
 
 server.post('/getStory', async (req, res) => {
+    let storyResponse = `Terribly sorry, but I'm having trouble my end. Try later.`
     const outputContexts = req.body.queryResult.outputContexts
 
-    const storyTypeContext = outputContexts.find((context) => context.name.includes(storyGenreFollowUpIntent))
+    const storyTypeContext = outputContexts.find((context) => context.name.includes(followUpIntent))
+
+    if (!storyTypeContext) {
+        return res.json(makeResponse(`Sorry got the wrong context there. Expected ${followUpIntent}`))
+    }
 
     const { storytype, genre } = storyTypeContext.parameters
 
-    let storyResponse = `I'm sorry I couldn't find a story about ${storytype}`
 
     let storyRef = getRandomStory(jesusStories, storytype.toLowerCase())
     if (storyRef) {
